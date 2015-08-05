@@ -3,7 +3,7 @@ layout: default
 title: Hosted applications
 ---
 
-# Hosted pplications
+# Hosted applications
 
 Here you can find some of the hosted application [I (@gbraad)](//gbraad.nl) made.
 
